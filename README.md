@@ -1,5 +1,7 @@
-## Hi there 👋
+## Ahcheong Lee
+PhD. student at KAIST.
 
+Bio -> [https://ahcheongl.github.io]
 <!--
 **ahcheongL/ahcheongL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
